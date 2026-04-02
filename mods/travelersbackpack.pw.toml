@@ -1,0 +1,13 @@
+name = "Traveler's Backpack"
+filename = "travelersbackpack-fabric-1.20.1-9.1.51.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rlloIFEV/versions/E4UZZZAV/travelersbackpack-fabric-1.20.1-9.1.51.jar"
+hash-format = "sha512"
+hash = "c7109ab6cf4d6c8efacc2a71c102ea9514b7406eb8ec30cce43dc760030052307e6c6044a5cb6a958673335f84ff64e05f41b0d8ceef25e4415ead728b6847f7"
+
+[update]
+[update.modrinth]
+mod-id = "rlloIFEV"
+version = "E4UZZZAV"
