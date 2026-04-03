@@ -1,0 +1,13 @@
+name = "Tessarected"
+filename = "tessarected-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4Rbq4qgn/versions/8fS1te4C/tessarected-1.0.0.jar"
+hash-format = "sha512"
+hash = "28ebc8e4e52ac063b5f2c205dab1f5b1c9808feaf01812353ab705a4131e0131aec557dc9764dbefb76ee277c69f174bf75675f4930ebde438f93892a5b0c34d"
+
+[update]
+[update.modrinth]
+mod-id = "4Rbq4qgn"
+version = "8fS1te4C"

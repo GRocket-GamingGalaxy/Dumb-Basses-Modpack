@@ -194,7 +194,7 @@ metafile = true
 
 [[files]]
 file = "mods/kawaii-dishes.pw.toml"
-hash = "82a6134f89c3d3a663d6bb719a9e8ee3eac9962b888e94f358c90de67863fcfd"
+hash = "3e03bb3d38d915dcb65c94214a80747df81c10826196dfebbb56f1eaf4cb4ec2"
 metafile = true
 
 [[files]]
@@ -220,6 +220,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "d7145fd1bd8b4bb6a3b84652a96a68870fb3ab32230f27520bb9362fd17ec39f"
+metafile = true
+
+[[files]]
+file = "mods/modonomicon.pw.toml"
+hash = "70ea969828e4941146e6a43c91f266604b688ec6d8aa32b237aea1c8c29701af"
 metafile = true
 
 [[files]]
@@ -265,6 +270,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "3f9e020fb15e1c2ede36d50b40c72d536f6de3f817bd703d26805a747175c8bc"
+metafile = true
+
+[[files]]
+file = "mods/revelationary.pw.toml"
+hash = "95dc1c49d6f94a6484e3c3688fa062fed91b323aa4cc088cc2748ca0dd43a7da"
 metafile = true
 
 [[files]]
@@ -320,6 +330,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "3b61fcf1c80cfdd79282be71ddfa9cce02fc13f8d87a760db455e2a97b801f40"
+metafile = true
+
+[[files]]
+file = "mods/tessarected.pw.toml"
+hash = "8da465446946e54f727419222b82a4d277fc2b9895444acc3cf4e3e3ce29bc6e"
 metafile = true
 
 [[files]]
