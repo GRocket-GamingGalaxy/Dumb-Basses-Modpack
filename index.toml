@@ -333,11 +333,6 @@ hash = "3b61fcf1c80cfdd79282be71ddfa9cce02fc13f8d87a760db455e2a97b801f40"
 metafile = true
 
 [[files]]
-file = "mods/tessarected.pw.toml"
-hash = "8da465446946e54f727419222b82a4d277fc2b9895444acc3cf4e3e3ce29bc6e"
-metafile = true
-
-[[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "5e6e0ef9719dad24a73e278237d0535552fbf436e16395965dbabede81eb8de8"
 metafile = true
