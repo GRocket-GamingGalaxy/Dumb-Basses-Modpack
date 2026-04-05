@@ -168,6 +168,16 @@ hash = "493ed95320ee3cc9c2def86b9d0971c2ca4bb4215921c2a11208bee77d5dbfb5"
 metafile = true
 
 [[files]]
+file = "mods/gravestones-fix.pw.toml"
+hash = "9cc5869f09f90c5f3af001135dc1dedbcdbeccd6f01a6c59cdee2b53afe2f4d5"
+metafile = true
+
+[[files]]
+file = "mods/gravestones.pw.toml"
+hash = "e02e297f397621e1c0d17f6853d5176e23343609e978ac3fd35f1a73d00d509c"
+metafile = true
+
+[[files]]
 file = "mods/hephaestools.pw.toml"
 hash = "72bb8e9b8ae6955634a45a443a7a17042d2e8e3ed89dce615d2fb1975fd1f207"
 metafile = true

@@ -1,12 +1,12 @@
 name = "Dumb Basses Modpack"
 author = "GRocket_"
-version = "1.2.3"
+version = "1.2.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "fb5279ae29bc6046ab988d96dfefbc52de371728802d4b1adec7efd5dda7c215"
+hash = "bc292561ccd9d1b0c2130fb8663b9c93f70b1bc39b136c1e6a5193ceaebfe394"
 
 [versions]
 fabric = "0.18.6"
